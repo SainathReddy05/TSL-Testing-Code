@@ -1,0 +1,8 @@
+browser=chrome
+url=http://www.google.com
+#excelpath=
+#username=
+#password=
+searchField_name=q
+searchkey=LTI
+implicit_wait=20
